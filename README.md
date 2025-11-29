@@ -31,5 +31,4 @@ Data augmentation used: rotation, zoom, shift, flip, and rescaling.
 
 ---
 
-## 👩‍💻
-**Rahelita Pasaribu, Udayana University**
+👩‍💻 **Rahelita Pasaribu, Udayana University**
